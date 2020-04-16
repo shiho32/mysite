@@ -6,7 +6,7 @@
   min-height:480px;
   height:40vw;
   padding:0 100px;
-  background: url(main_visual.jpg)center top no-repeat;
+  background: url (main_visual.jpg)center top no-repeat;
   background-size: cover;
   position: relative;
 }
