@@ -6,7 +6,7 @@
   min-height:480px;
   height:40vw;
   padding:0 100px;
-  background: url(images/main_visual.jpg)center top no-repeat;
+  background: url(main_visual.jpg)center top no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -868,7 +868,7 @@ input[type=email]{
   display: block;
   width: 12px;
   height: 9px;
-  background: url(images/icon-triangle.png)left top no-repeat;
+  background: url(icon-triangle.png)left top no-repeat;
   position: absolute;
   top:50%;
   right:10px;
